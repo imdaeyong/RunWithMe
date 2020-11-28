@@ -176,7 +176,7 @@
 
 
 ## :desktop_computer: 사용된 기술
-![image](/uploads/099419baab0b261b3d5299e46cf78127/image.png)
+![사용된기술](https://user-images.githubusercontent.com/45128072/100514964-2fc53c80-31bc-11eb-8ed5-d165de0f97fa.png)
 
 **[ BACK END ]**
 
