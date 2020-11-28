@@ -252,15 +252,13 @@
 ---
 
 ### 2. 메인 화면
-<img src="https://user-images.githubusercontent.com/45128072/100515093-fd680f00-31bc-11eb-8b34-9ebc42eff0a8.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515092-fccf7880-31bc-11eb-83a3-bb773ceeb2a5.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515093-fd680f00-31bc-11eb-8b34-9ebc42eff0a8.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515092-fccf7880-31bc-11eb-83a3-bb773ceeb2a5.jpg" width="30%">
 
 - **[메인 화면]** : 상단에는 현재 진행중인 챌린지와 이벤트 , 중단에는 랭킹, 하단에는 친구의 최신 피드를 보여줍니다. 
 ---
 
 #### 2-1. 메인 화면에서 랭커 클릭
-<img src="https://user-images.githubusercontent.com/45128072/100515095-fe00a580-31bc-11eb-8996-a178ca5ff6b4.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515094-fd680f00-31bc-11eb-87cd-7a6318eed542.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515095-fe00a580-31bc-11eb-8996-a178ca5ff6b4.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515094-fd680f00-31bc-11eb-87cd-7a6318eed542.jpg" width="30%">
 
 - **[메인화면에서 랭커 클릭시]** : 선택한 유저의 간단한 프로필과 최근 런닝 기록을 보여줍니다.
 - **[랭커 프로필에서 런닝 피드 클릭시]** : 해당 유저의 해당 런닝기록을 보여줍니다. 
@@ -273,9 +271,7 @@
 ---
 
 ### 3. 런닝 페이지  
-<img src="https://user-images.githubusercontent.com/45128072/100515098-fe993c00-31bc-11eb-9ceb-6645b281bf78.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515090-fc36e200-31bc-11eb-9511-bbddc9c17d99.png" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515047-b8dc7380-31bc-11eb-9793-0f3b864260d1.png" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515098-fe993c00-31bc-11eb-9ceb-6645b281bf78.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515090-fc36e200-31bc-11eb-9511-bbddc9c17d99.png" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515047-b8dc7380-31bc-11eb-9793-0f3b864260d1.png" width="30%">
 
 - **[런닝 페이지에서 시작 버튼 클릭시]** : 런닝 기록을 시작할 수 있습니다
 - **[런닝 페이지에서 정지 버튼 클릭시]** : 런닝을 끝내고 기록을 저장할 수 있습니다.
@@ -284,9 +280,7 @@
 --- 
 
 #### 3-1. 런닝 결과 및 분석
-<img src="https://user-images.githubusercontent.com/45128072/100515089-fc36e200-31bc-11eb-873f-d255b366dc03.png" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515099-ff31d280-31bc-11eb-9b49-53a47c9d196b.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515100-ff31d280-31bc-11eb-9c5e-afd19efbaa08.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515089-fc36e200-31bc-11eb-873f-d255b366dc03.png" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515099-ff31d280-31bc-11eb-9b49-53a47c9d196b.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515100-ff31d280-31bc-11eb-9c5e-afd19efbaa08.jpg" width="30%">
 
 - **[런닝 결과]** : 현재 런닝의 부분 기록 및 전체 기록을 확인할 수 있습니다.
 - **[런닝 분석]** : 개발자의 감성을 살려서 달마다 뛴 기록을 보여주며 순위화 해줍니다.
@@ -297,17 +291,14 @@
 
 
 ### 4. 주변 러너 추천
-<img src="https://user-images.githubusercontent.com/45128072/100515102-0062ff80-31bd-11eb-95ea-bddb8fda0c1d.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515101-ffca6900-31bc-11eb-9747-9002ec9f7e97.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515102-0062ff80-31bd-11eb-95ea-bddb8fda0c1d.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515101-ffca6900-31bc-11eb-9747-9002ec9f7e97.jpg" width="30%">
 
 - **[주변 러너]** : 같은 동네의 주변 러너들을 추천해주고, 클릭하면 마찬가지로 유저의 프로필과 기록을 확인할 수 있습니다. 
 ---
 
 
 ### 5. 채팅 및 매칭
-<img src="https://user-images.githubusercontent.com/45128072/100515104-00fb9600-31bd-11eb-97e7-8365f8fc308f.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515106-00fb9600-31bd-11eb-8ce0-c19ef751c626.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515103-0062ff80-31bd-11eb-83ac-17a8f002287f.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515104-00fb9600-31bd-11eb-97e7-8365f8fc308f.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515106-00fb9600-31bd-11eb-8ce0-c19ef751c626.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515103-0062ff80-31bd-11eb-83ac-17a8f002287f.jpg" width="30%">
 
 - **[1:1 채팅]** : 실시간 채팅을 적용하여 현재 온라인 상태인 유저들과 채팅할 수 있습니다.
 - **[실제 채팅 화면]** : 실시간으로 시간과 프로필, 메시지가 주고 받아집니다.
@@ -315,14 +306,11 @@
 
 ---
 #### 5.1 매칭 업데이트(ver 1.01)
-<img src="https://user-images.githubusercontent.com/45128072/100515505-0dcdb900-31c0-11eb-8aed-fd64e280bfae.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515507-0e664f80-31c0-11eb-81bf-973f7d7bfcb1.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515504-0c9c8c00-31c0-11eb-98d9-b3ef8281bfee.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515505-0dcdb900-31c0-11eb-8aed-fd64e280bfae.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515507-0e664f80-31c0-11eb-81bf-973f7d7bfcb1.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515504-0c9c8c00-31c0-11eb-98d9-b3ef8281bfee.jpg" width="30%">
 
 ---
 ### 6. 지역 채팅
-<img src="https://user-images.githubusercontent.com/45128072/100515107-01942c80-31bd-11eb-986b-d3717ecaa5cc.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515109-01942c80-31bd-11eb-9882-30cbeefe5629.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515107-01942c80-31bd-11eb-986b-d3717ecaa5cc.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515109-01942c80-31bd-11eb-9882-30cbeefe5629.jpg" width="30%">
 
 - **[지역 채팅방]** : 다양한 지역들의 채팅방에 참여하여 여러 유저들과 실시간 채팅을 즐길 수 있습니다.
 - **[실제 채팅 화면]** : 여러명이 동시에 채팅을 즐길 수 있습니다.
@@ -330,8 +318,7 @@
 
 
 ### 7. 챌린지 페이지
-<img src="https://user-images.githubusercontent.com/45128072/100515111-022cc300-31bd-11eb-884d-90cc02a1f066.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515110-022cc300-31bd-11eb-9864-ca02deddb336.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515111-022cc300-31bd-11eb-884d-90cc02a1f066.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515110-022cc300-31bd-11eb-9864-ca02deddb336.jpg" width="30%">
 
 - **[챌린지 페이지]** : 현재 진행중, 진행 예정, 종료된 챌린지들을 확인할 수 있습니다.
 - **[챌린지 클릭시]** : 챌린지 클릭시 해당 챌린지의 상세 정보를 확인할 수 있고, 신청버튼으로 챌린지에 참여할 수 있습니다.
@@ -340,8 +327,7 @@
 
 
 #### 7-1. 챌린지 상세
-<img src="https://user-images.githubusercontent.com/45128072/100515112-02c55980-31bd-11eb-843b-31169bb97c62.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515113-035df000-31bd-11eb-8893-6598f5dc2d2b.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515112-02c55980-31bd-11eb-843b-31169bb97c62.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515113-035df000-31bd-11eb-8893-6598f5dc2d2b.jpg" width="30%">
 
 
 - **[챌린지 상세페이지]** : 챌린지를 클릭시 상세 페이지로 넘어가게 됩니다.
@@ -350,8 +336,7 @@
 
 
 #### 7-2. 챌린지 결제
-<img src="https://user-images.githubusercontent.com/45128072/100515115-03f68680-31bd-11eb-9269-75d7a3693c31.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515114-035df000-31bd-11eb-84b1-4b7abb22080e.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515115-03f68680-31bd-11eb-9269-75d7a3693c31.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515114-035df000-31bd-11eb-84b1-4b7abb22080e.jpg" width="30%">
 
 - **[챌린지 결제]** : 해당 챌린지에서 원하는 금액만큼만 기부금액을 기재하여 참가할 수 있습니다.
 
@@ -359,9 +344,7 @@
 
 
 ### 8. 챌린지 제안
-<img src="https://user-images.githubusercontent.com/45128072/100515120-0527b380-31bd-11eb-89ab-afbad1c3d400.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515118-048f1d00-31bd-11eb-86b6-d9ae4be6c4b1.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515116-03f68680-31bd-11eb-9733-80e4a2675026.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515120-0527b380-31bd-11eb-89ab-afbad1c3d400.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515118-048f1d00-31bd-11eb-86b6-d9ae4be6c4b1.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515116-03f68680-31bd-11eb-9733-80e4a2675026.jpg" width="30%">
 
 
 
@@ -380,9 +363,7 @@
 
 
 ### 9. 런닝 기록 조회
-<img src="https://user-images.githubusercontent.com/45128072/100515128-078a0d80-31bd-11eb-962b-a0fd7ffd36c8.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515126-06f17700-31bd-11eb-8433-f5038b7684a3.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515127-078a0d80-31bd-11eb-846f-2a7608c106ff.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515128-078a0d80-31bd-11eb-962b-a0fd7ffd36c8.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515126-06f17700-31bd-11eb-8433-f5038b7684a3.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515127-078a0d80-31bd-11eb-846f-2a7608c106ff.jpg" width="30%">
 
 - **[런닝 기록 조회]** : 내 모든 런닝 기록을 조회할 수 있습니다. 하단에서 런닝 기록을 클릭시 맵에 뛴 경로가 표시됩니다.
 - **[런닝 기록 클릭시1]** : 맵에 해당 런닝 기록을 분석하여 뛴 경로를 표시해줍니다.
@@ -391,8 +372,7 @@
 
 
 #### 9-1. 런닝 상세
-<img src="https://user-images.githubusercontent.com/45128072/100515130-0822a400-31bd-11eb-8885-68ad26705ecd.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515129-0822a400-31bd-11eb-821d-7044afe93ab7.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515130-0822a400-31bd-11eb-8885-68ad26705ecd.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515129-0822a400-31bd-11eb-821d-7044afe93ab7.jpg" width="30%">
 
 - **[내 런닝 상세]** : 해당 런닝 기록을 상세하게 볼수 있습니다. 
 ---
@@ -406,9 +386,7 @@
 
 
 ### 11. 마일리지 충전
-<img src="https://user-images.githubusercontent.com/45128072/100515134-0953d100-31bd-11eb-8567-2fbff0c3c0c8.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515132-0953d100-31bd-11eb-8094-16c7d6fd937e.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515135-09ec6780-31bd-11eb-921e-398e275cc636.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515134-0953d100-31bd-11eb-8567-2fbff0c3c0c8.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515132-0953d100-31bd-11eb-8094-16c7d6fd937e.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515135-09ec6780-31bd-11eb-921e-398e275cc636.jpg" width="30%">
 
 - **[마일리지 충전]** : 마일리지가 부족할시 마일리지 충전창으로 이동되며, 원하는 금액만큼 충전할 수 있습니다.
 - **[마일리지 충전(현재 공짜로 충전)]** : 현재는 비밀번호를 입력받지 않고 **TEST** 를 위한 충전기능입니다.
@@ -417,9 +395,7 @@
 
 
 ### 12. 회원정보 수정
-<img src="https://user-images.githubusercontent.com/45128072/100515122-05c04a00-31bd-11eb-9385-0ad9746b6124.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515123-05c04a00-31bd-11eb-9ed2-6c46076a36a9.jpg" width="30%">
-<img src="https://user-images.githubusercontent.com/45128072/100515124-0658e080-31bd-11eb-9fe6-87a0cc7e57d6.jpg" width="30%">
+<img src="https://user-images.githubusercontent.com/45128072/100515122-05c04a00-31bd-11eb-9385-0ad9746b6124.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515123-05c04a00-31bd-11eb-9ed2-6c46076a36a9.jpg" width="30%"><img src="https://user-images.githubusercontent.com/45128072/100515124-0658e080-31bd-11eb-9fe6-87a0cc7e57d6.jpg" width="30%">
 
 - **[회원정보 수정]** : 회원정보 수정 페이지입니다.
 - **[회원정보 수정전, 수정 후]** : 회원정보를 수정하거나 탈퇴할 수 있습니다.
